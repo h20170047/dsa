@@ -1,10 +1,8 @@
-package svj.leetcode.dfs;
+package svj.leetcode.depthfirstsearch;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class Add_Binary_67Test {
 

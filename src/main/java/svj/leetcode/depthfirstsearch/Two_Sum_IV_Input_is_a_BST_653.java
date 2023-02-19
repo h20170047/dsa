@@ -1,4 +1,4 @@
-package svj.leetcode.dfs;
+package svj.leetcode.depthfirstsearch;
 
 import java.util.Deque;
 import java.util.LinkedList;

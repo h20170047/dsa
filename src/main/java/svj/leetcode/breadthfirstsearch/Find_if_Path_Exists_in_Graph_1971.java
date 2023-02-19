@@ -1,4 +1,4 @@
-package svj.leetcode.bfs;
+package svj.leetcode.breadthfirstsearch;
 
 import java.util.*;
 

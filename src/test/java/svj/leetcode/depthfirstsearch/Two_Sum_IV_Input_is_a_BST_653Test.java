@@ -1,4 +1,4 @@
-package svj.leetcode.dfs;
+package svj.leetcode.depthfirstsearch;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
