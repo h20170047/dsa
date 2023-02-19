@@ -1,9 +1,12 @@
 package svj.leetcode.binarysearch;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Find_Median_from_Data_Stream_295 {
     List<Integer> list;
 
-    public MedianFinder() {
+    public Find_Median_from_Data_Stream_295() {
         list= new ArrayList<Integer>();
     }
 
