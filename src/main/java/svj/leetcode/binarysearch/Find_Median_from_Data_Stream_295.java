@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Find_Median_from_Data_Stream_295 {
+    /**
+     * Your MedianFinder object will be instantiated and called as such:
+     * MedianFinder obj = new MedianFinder();
+     * obj.addNum(num);
+     * double param_2 = obj.findMedian();
+     */
     List<Integer> list;
 
     public Find_Median_from_Data_Stream_295() {
@@ -40,10 +46,5 @@ public class Find_Median_from_Data_Stream_295 {
     }
 }
 
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder obj = new MedianFinder();
- * obj.addNum(num);
- * double param_2 = obj.findMedian();
- */
-}
+
+
